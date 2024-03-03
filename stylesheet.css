@@ -7,10 +7,6 @@ h1 {
     padding: 50px;
 }
 
-.info {
-    font-style: italic;
-}
-
 #link:hover {
     color: #BF5700;
 }
