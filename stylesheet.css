@@ -1,0 +1,20 @@
+h1 {
+    font-weight: 100;
+}
+
+.section {
+    border: 1px solid #BF5700;
+    padding: 50px;
+}
+
+.info {
+    font-style: italic;
+}
+
+#link:hover {
+    color: #BF5700;
+}
+
+#image {
+    width: 150px;
+}
